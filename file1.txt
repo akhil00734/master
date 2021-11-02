@@ -2,3 +2,5 @@ hi This is demo of git file.
 a
 a
 
+this is doing in bash command prompt.
+
